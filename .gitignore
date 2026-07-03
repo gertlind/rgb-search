@@ -1,0 +1,10 @@
+# Project 
+openprinttag-database/
+*.csv
+notes.txt
+# Virtual environment
+.venv/
+venv/
+# misc
+.DS_Store
+*.avif
