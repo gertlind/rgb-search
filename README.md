@@ -2,6 +2,7 @@
 
 
 <center>
+
 | ΔE | How the Eye Perceives the Difference |
 |:----:|:----------------------------------:|
 | < 1 | No visible difference |
@@ -9,6 +10,7 @@
 | 2–5 | Small but noticeable difference |
 | 5–10 | Clearly different, but still related |
 | > 10 | Completely different color |
+
 </center>
 
 
